@@ -7,3 +7,7 @@ Either way, my name is Philip. Got it? \
 Philip. Not Frog. It's Philip.";
 var myName = "Philip";
 var hits = [];
+
+for(var i = 0; i < text.length; i++) {
+    
+}
